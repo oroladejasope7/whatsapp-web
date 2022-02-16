@@ -1,0 +1,105 @@
+  *{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(212, 201, 201);
+    }
+    
+.container{
+    width: 100%;
+    height: 34vh;
+    background-color: rgb(31, 168, 152);
+    font-family: sans-serif;
+    font-size: 1.5em;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: row;
+    color: white;
+    }
+    
+.box{
+    width: 68%;
+    height: 100vh;
+    background-color: white;
+    margin-left: 210px;
+    margin-top: -130px;
+    padding-left: -50px;
+    font: 1.2em sans-serif;
+    border-radius: 4px;
+    box-shadow: 1px 1px 25px gray;
+
+} 
+.headertext{
+    background-color: rgb(31, 168, 152);
+    margin-top: 20px;
+    margin-left: -930px;
+}
+.p{
+    background-color: white;
+    padding-left: 90px;
+    padding-top: 50px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: lighter;
+    font-size: 15px;
+} 
+.p1{
+    background-color: white;
+    padding-left: 90px;
+    padding-top: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: lighter;
+    font-size: 15px;
+} 
+.pto{
+    padding-left: 90px;
+    padding-top: 50px;
+    background-color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: lighter;
+    font-size: 30px;
+}
+.inline{
+    background-color: white;
+} 
+.df{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+
+}
+.barcode{
+    transform: scale(0.5);
+    background-color: white;
+    position: absolute;
+    top: 120px;
+    left: 820px;
+}
+.barcodetext{
+    background-color: white;
+    position: absolute;
+    left: 63.5%;
+    top: 50%;
+}
+.video{
+    background-color: white;
+    width: 68%;
+    height: 400px;
+    position: absolute;
+    bottom: -20%;
+}
+.barcode2{
+    transform: scale(0.15);
+    background-color: rgb(31, 168, 152);
+    position: absolute;
+    left: -20%;
+    top: -24%;
+}
+.help{
+    background-color: white;
+    position: absolute;
+    top: 360px;
+}
+    
+    
+    
+    
